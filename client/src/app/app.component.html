@@ -1,0 +1,97 @@
+<header>
+  <div class="header-container d-flex f-align-center f-justify-center">
+    <nav class="header-content d-flex f-justify-around f-align-center">
+      <div class="logo">
+        CM
+      </div>
+      <div (focusout)="clean()" class="search d-flex f-align-center">
+        <label>
+          <input
+            [(ngModel)]="value"
+            (keydown.enter)="product.search(value)"
+            type="text" placeholder="Введіть назву товару">
+        </label>
+        <div (click)="product.search(value)" class="btn-search">
+          <i class="fas fa-search"></i>
+        </div>
+        <div *ngIf="product.searchProduct" class="products">
+          <div *ngFor="let product of product.searchProduct" class="product">
+            <div (click)="categoryC.details(product._id)" [innerHTML]="product?.title"></div>
+          </div>
+        </div>
+      </div>
+      <div class="nav-menu d-flex f-align-center">
+        <i (click)="show()" class="fas fa-user-alt"></i>
+        <i (click)="show()" id="arrow" class="fas fa-caret-up"></i>
+        <ul (click)="show()" id="menu" class="items-container transition-all">
+          <a
+            *ngIf="!isAuth"
+            (click)="model.chooseLogReg(true, false); showHidenModel()"
+            class="d-flex f-align-center menu-items f-justify-center transition-all">
+            <li>Увійти</li>
+          </a>
+          <a
+            *ngIf="isAuth"
+            (click)="auth.logout()"
+            class="d-flex f-align-center menu-items f-justify-center transition-all">
+            <li>Вийти</li>
+          </a>
+          <a
+            *ngIf="!isAuth"
+            (click)="model.chooseLogReg(false, true); showHidenModel()"
+            class="d-flex f-align-center menu-items f-justify-center transition-all"
+          >
+            <li>Зареєструватися</li>
+          </a>
+        </ul>
+        <div routerLink="/cart" class="cart">
+          <i class="fas fa-shopping-cart"></i>
+          <div class="count">{{count}}</div>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<aside class="d-flex f-justify-center">
+  <nav>
+    <div class="aside-menu">
+      <div routerLink="/home" class="items">
+        <i class="fas fa-home"></i>
+        <a>Головна</a>
+      </div>
+      <div (click)="showCategory()" class="items transition-all">
+        <i id="arrow-category" class="fas fa-caret-up"></i>
+        <a>Категорії</a>
+      </div>
+      <div id="category" class="transition-all">
+        <div *ngFor="let k of category.categories" class="">
+          <div class="items">
+            <a routerLink="/category/{{k._id}}">{{k.title}}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+</aside>
+
+<main>
+  <router-outlet></router-outlet>
+</main>
+<div id="model" class="auth-model d-flex f-justify-center f-align-center">
+  <div class="auth-container">
+    <div class="nav-auth d-flex f-justify-center">
+      <div (click)="model.chooseLogReg(true, false)" class="log btn-auth">Увійти</div>
+      <div (click)="model.chooseLogReg(false, true)" class="reg btn-auth">Зареєструватися</div>
+    </div>
+    <div (click)="showHidenModel()" class="btn-cancel">
+      <i class="fas fa-window-close"></i>
+    </div>
+    <div *ngIf="model.log" class="login auth">
+      <app-login></app-login>
+    </div>
+    <div *ngIf="model.reg" class="register auth">
+      <app-register></app-register>
+    </div>
+  </div>
+</div>

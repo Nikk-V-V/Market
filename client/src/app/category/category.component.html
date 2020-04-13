@@ -1,0 +1,17 @@
+<section class="category-container">
+  <div *ngIf="isProducts" class="products d-flex f-justify-around">
+    <div *ngFor="let product of products" class="product">
+      <div class="product-img d-flex f-justify-center"><img class="image" [src]="product?.image" alt=""></div>
+      <div [innerHTML]="product?.title" class="product-title"></div>
+      <div [innerHTML]="product?.price | currency:'UAH':'symbol-narrow'"></div>
+      <div class="btn-product d-flex f-align-center">
+        <div (click)="details(product?._id)" class="btn">Детально</div>
+      </div>
+    </div>
+  </div>
+  <div *ngIf="!isProducts" class="list-is-empty d-flex f-justify-center f-align-center">
+    <div class="text">
+      Не знайдено товарів
+    </div>
+  </div>
+</section>

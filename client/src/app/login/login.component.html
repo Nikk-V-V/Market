@@ -1,0 +1,33 @@
+<section>
+  <div class="message">
+
+  </div>
+  <div [formGroup]="form">
+    <div class="email">
+      <label>
+        <input
+          formControlName="email"
+          id="email"
+          type="email"
+          placeholder="E-mail"
+          [ngClass]="{'invalid': form.get('email').invalid && form.get('email').touched}">
+      </label>
+    </div>
+    <div class="password">
+      <label>
+        <input
+          formControlName="password"
+          id="password"
+          placeholder="Пароль"
+          type="password"
+          [ngClass]="{'invalid': form.get('password').invalid && form.get('password').touched}"
+        >
+      </label>
+    </div>
+    <button
+      [disabled]="form.invalid || form.disabled"
+      (click)="onSubmit()" class="btn-auth d-flex f-justify-center">
+      Увійти
+    </button>
+  </div>
+</section>

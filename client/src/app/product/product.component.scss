@@ -1,0 +1,29 @@
+.product-container {
+  flex-wrap: wrap;
+  text-align: center;
+  background-color: #7f0000;
+  padding: 20px;
+}
+
+.product-image {
+  width: 250px;
+  height: 280px;
+}
+
+.product-title {
+  width: 100%;
+  font-size: 18px;
+  margin: 15px 0;
+  font-family: "Roboto Black", sans-serif;
+}
+
+.product-description {
+  width: 100%;
+}
+
+.add-card {
+  margin: 15px 0;
+  padding: 15px;
+  background-color: #000000bf;
+  cursor: pointer;
+}

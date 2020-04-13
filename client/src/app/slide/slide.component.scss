@@ -1,0 +1,54 @@
+.file {
+  display: none;
+}
+
+.slid-operation {
+  margin-top: 15px;
+}
+
+.slide {
+  margin: 15px 20px;
+  flex-wrap: wrap;
+  label {
+    i {
+      font-size: 150px;
+    }
+  }
+}
+
+.image {
+  width: 100%;
+  height: 200px;
+  margin-bottom: 15px;
+}
+
+.title {
+  text-align: center;
+  margin: 40px 0;
+  font-size: 20px;
+  width: 100%;
+}
+
+.slides-container {
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.btn-auth {
+  margin: 0;
+}
+
+.btn {
+  padding: 5px;
+  border: 1px solid #ffff;
+  height: 30px;
+}
+
+.update {
+  background-color: #010154;
+}
+
+.delete {
+  background-color: #540000;
+  margin-top: 15px;
+}

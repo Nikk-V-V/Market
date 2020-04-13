@@ -1,0 +1,20 @@
+<section class="product-container d-flex f-justify-center f-align-center">
+  <div class="product-image">
+    <img [src]="product?.image" class="image" alt="image">
+  </div>
+  <div [innerHTML]="product?.title" class="product-title">
+
+  </div>
+  <div [innerHTML]="product?.description" class="product-description">
+
+  </div>
+  <div (click)="data.addToCart(product)" class="add-card">
+    Додати в корзину
+  </div>
+  <div class="product-rating">
+
+  </div>
+  <div class="product-review">
+
+  </div>
+</section>

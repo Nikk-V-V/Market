@@ -1,0 +1,40 @@
+.products {
+  flex-wrap: wrap;
+}
+
+.product {
+  width: 200px;
+  padding: 20px;
+  background-color: #7f0000;
+  text-align: center;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.product-img {
+  height: 150px;
+}
+
+.product-title {
+  margin: 25px 0;
+}
+
+.product-description {
+  height: 130px;
+  overflow: hidden;
+}
+
+.btn-product {
+  flex-wrap: wrap;
+}
+
+.btn {
+  margin: 10px auto;
+  padding: 10px;
+  background-color: white;
+  color: #7f0000;
+  font-family: "Roboto Black", sans-serif;
+  font-size: 14px;
+  border-radius: 10px;
+  cursor: pointer;
+}

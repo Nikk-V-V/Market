@@ -1,0 +1,17 @@
+[
+	{
+		"_id": "5e88bebddd0f093770cad772",
+		"title": "Системні блоки",
+		"image": "uploads\\img\\04042020-200709_425-logo.png"
+	},
+	{
+		"_id": "5e88bfdbfdf4fb0288964194",
+		"title": "Ноутбуки",
+		"image": "uploads\\img\\04042020-201155_437-logo.png"
+	},
+	{
+		"_id": "5e88ff56a6a84f0ae88d16bd",
+		"title": "Екрани",
+		"image": "uploads\\img\\05042020-004246_577-logo.png"
+	}
+]

@@ -1,0 +1,134 @@
+[
+	{
+		"rating": 0,
+		"review": [],
+		"_id": "5e9306d7a155ef1ad0fe4b3d",
+		"title": "Dell Inspiron 3582 (I35C445DIL-73B) Black",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet consectetur consequatur delectus, deserunt dolorum ducimus eaque esse excepturi exercitationem itaque laboriosam laborum mollitia neque officia officiis quasi recusandae reiciendis rerum saepe soluta tenetur ut veritatis vero voluptatibus? A ad aliquid asperiores consectetur consequuntur debitis deserunt ducimus, enim est explicabo fuga harum iusto magni nulla odio ratione suscipit velit. Consectetur explicabo ipsum iste quis saepe sequi? Ab dolore doloribus eveniet magnam quos. Autem cum officiis quisquam! Ducimus eveniet fugiat in ipsa molestias nulla quaerat ut veniam. Assumenda consectetur consequatur, cumque libero nulla perferendis quo similique veritatis! Accusamus aperiam consectetur consequatur culpa deserunt dignissimos distinctio eius enim, et eveniet expedita hic itaque iusto laudantium magni molestias placeat porro quasi, qui sit. Ab adipisci, alias dolorem eius eum illum labore libero minus quas ullam. Aliquid consequuntur, dolores explicabo fugiat inventore maiores omnis perferendis, quae quaerat quibusdam, reiciendis rem suscipit veritatis? Adipisci cumque dolore eligendi excepturi fuga fugit id impedit ipsa, magnam, nam natus, nesciunt nulla perspiciatis quaerat quas quasi repellat repellendus saepe similique totam! Adipisci atque doloremque ea nobis officia rerum voluptas! Aliquid commodi corporis cupiditate in labore laborum nemo nesciunt nisi non numquam, odit quaerat quidem quo repudiandae tempora unde voluptates.",
+		"category": "5e88bfdbfdf4fb0288964194",
+		"price": 10000,
+		"owner": "5e8b45a5851ad00980c1c83f",
+		"image": "uploads\\img\\12042020-151727_786-product1.jpg"
+	},
+	{
+		"rating": 0,
+		"review": [],
+		"_id": "5e93070164d9a031b0d3cad2",
+		"title": "Ноутбук MSI Modern 14 (A10M-653XUA) Luxury",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet consectetur consequatur delectus, deserunt dolorum ducimus eaque esse excepturi exercitationem itaque laboriosam laborum mollitia neque officia officiis quasi recusandae reiciendis rerum saepe soluta tenetur ut veritatis vero voluptatibus? A ad aliquid asperiores consectetur consequuntur debitis deserunt ducimus, enim est explicabo fuga harum iusto magni nulla odio ratione suscipit velit. Consectetur explicabo ipsum iste quis saepe sequi? Ab dolore doloribus eveniet magnam quos. Autem cum officiis quisquam! Ducimus eveniet fugiat in ipsa molestias nulla quaerat ut veniam. Assumenda consectetur consequatur, cumque libero nulla perferendis quo similique veritatis! Accusamus aperiam consectetur consequatur culpa deserunt dignissimos distinctio eius enim, et eveniet expedita hic itaque iusto laudantium magni molestias placeat porro quasi, qui sit. Ab adipisci, alias dolorem eius eum illum labore libero minus quas ullam. Aliquid consequuntur, dolores explicabo fugiat inventore maiores omnis perferendis, quae quaerat quibusdam, reiciendis rem suscipit veritatis? Adipisci cumque dolore eligendi excepturi fuga fugit id impedit ipsa, magnam, nam natus, nesciunt nulla perspiciatis quaerat quas quasi repellat repellendus saepe similique totam! Adipisci atque doloremque ea nobis officia rerum voluptas! Aliquid commodi corporis cupiditate in labore laborum nemo nesciunt nisi non numquam, odit quaerat quidem quo repudiandae tempora unde voluptates.",
+		"category": "5e88bfdbfdf4fb0288964194",
+		"price": 15000,
+		"owner": "5e8b45a5851ad00980c1c83f",
+		"image": "uploads\\img\\12042020-151809_606-product2.jpg"
+	},
+	{
+		"rating": 0,
+		"review": [],
+		"_id": "5e93073ef22b590d90d00a2c",
+		"title": "Ноутбук Acer Aspire 5 A515-54G-56DQ (NX.HN0EU.00R) Charcoal Black",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet consectetur consequatur delectus, deserunt dolorum ducimus eaque esse excepturi exercitationem itaque laboriosam laborum mollitia neque officia officiis quasi recusandae reiciendis rerum saepe soluta tenetur ut veritatis vero voluptatibus? A ad aliquid asperiores consectetur consequuntur debitis deserunt ducimus, enim est explicabo fuga harum iusto magni nulla odio ratione suscipit velit. Consectetur explicabo ipsum iste quis saepe sequi? Ab dolore doloribus eveniet magnam quos. Autem cum officiis quisquam! Ducimus eveniet fugiat in ipsa molestias nulla quaerat ut veniam. Assumenda consectetur consequatur, cumque libero nulla perferendis quo similique veritatis! Accusamus aperiam consectetur consequatur culpa deserunt dignissimos distinctio eius enim, et eveniet expedita hic itaque iusto laudantium magni molestias placeat porro quasi, qui sit. Ab adipisci, alias dolorem eius eum illum labore libero minus quas ullam. Aliquid consequuntur, dolores explicabo fugiat inventore maiores omnis perferendis, quae quaerat quibusdam, reiciendis rem suscipit veritatis? Adipisci cumque dolore eligendi excepturi fuga fugit id impedit ipsa, magnam, nam natus, nesciunt nulla perspiciatis quaerat quas quasi repellat repellendus saepe similique totam! Adipisci atque doloremque ea nobis officia rerum voluptas! Aliquid commodi corporis cupiditate in labore laborum nemo nesciunt nisi non numquam, odit quaerat quidem quo repudiandae tempora unde voluptates.",
+		"category": "5e88bfdbfdf4fb0288964194",
+		"price": 15000,
+		"owner": "5e8b45a5851ad00980c1c83f",
+		"image": "uploads\\img\\12042020-151910_003-product3.jpg"
+	},
+	{
+		"rating": 0,
+		"review": [],
+		"_id": "5e9307936116dc0c48c3e5ad",
+		"title": "Ноутбук HP Pavilion Gaming 15-cx0027ua (8KQ92EA)",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet consectetur consequatur delectus, deserunt dolorum ducimus eaque esse excepturi exercitationem itaque laboriosam laborum mollitia neque officia officiis quasi recusandae reiciendis rerum saepe soluta tenetur ut veritatis vero voluptatibus? A ad aliquid asperiores consectetur consequuntur debitis deserunt ducimus, enim est explicabo fuga harum iusto magni nulla odio ratione suscipit velit. Consectetur explicabo ipsum iste quis saepe sequi? Ab dolore doloribus eveniet magnam quos. Autem cum officiis quisquam! Ducimus eveniet fugiat in ipsa molestias nulla quaerat ut veniam. Assumenda consectetur consequatur, cumque libero nulla perferendis quo similique veritatis! Accusamus aperiam consectetur consequatur culpa deserunt dignissimos distinctio eius enim, et eveniet expedita hic itaque iusto laudantium magni molestias placeat porro quasi, qui sit. Ab adipisci, alias dolorem eius eum illum labore libero minus quas ullam. Aliquid consequuntur, dolores explicabo fugiat inventore maiores omnis perferendis, quae quaerat quibusdam, reiciendis rem suscipit veritatis? Adipisci cumque dolore eligendi excepturi fuga fugit id impedit ipsa, magnam, nam natus, nesciunt nulla perspiciatis quaerat quas quasi repellat repellendus saepe similique totam! Adipisci atque doloremque ea nobis officia rerum voluptas! Aliquid commodi corporis cupiditate in labore laborum nemo nesciunt nisi non numquam, odit quaerat quidem quo repudiandae tempora unde voluptates.",
+		"category": "5e88bfdbfdf4fb0288964194",
+		"price": 25000,
+		"owner": "5e8b45a5851ad00980c1c83f",
+		"image": "uploads\\img\\12042020-152035_007-product4.jpg"
+	},
+	{
+		"rating": 0,
+		"review": [],
+		"_id": "5e9307d857b7430678405748",
+		"title": "Ноутбук Lenovo IdeaPad S145-15IGM (81MX0033RA)",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet consectetur consequatur delectus, deserunt dolorum ducimus eaque esse excepturi exercitationem itaque laboriosam laborum mollitia neque officia officiis quasi recusandae reiciendis rerum saepe soluta tenetur ut veritatis vero voluptatibus? A ad aliquid asperiores consectetur consequuntur debitis deserunt ducimus, enim est explicabo fuga harum iusto magni nulla odio ratione suscipit velit. Consectetur explicabo ipsum iste quis saepe sequi? Ab dolore doloribus eveniet magnam quos. Autem cum officiis quisquam! Ducimus eveniet fugiat in ipsa molestias nulla quaerat ut veniam. Assumenda consectetur consequatur, cumque libero nulla perferendis quo similique veritatis! Accusamus aperiam consectetur consequatur culpa deserunt dignissimos distinctio eius enim, et eveniet expedita hic itaque iusto laudantium magni molestias placeat porro quasi, qui sit. Ab adipisci, alias dolorem eius eum illum labore libero minus quas ullam. Aliquid consequuntur, dolores explicabo fugiat inventore maiores omnis perferendis, quae quaerat quibusdam, reiciendis rem suscipit veritatis? Adipisci cumque dolore eligendi excepturi fuga fugit id impedit ipsa, magnam, nam natus, nesciunt nulla perspiciatis quaerat quas quasi repellat repellendus saepe similique totam! Adipisci atque doloremque ea nobis officia rerum voluptas! Aliquid commodi corporis cupiditate in labore laborum nemo nesciunt nisi non numquam, odit quaerat quidem quo repudiandae tempora unde voluptates.",
+		"category": "5e88bfdbfdf4fb0288964194",
+		"price": 15000,
+		"owner": "5e8b45a5851ad00980c1c83f",
+		"image": "uploads\\img\\12042020-152144_471-product5.jpg"
+	},
+	{
+		"rating": 0,
+		"review": [],
+		"_id": "5e93081fc7429f31accb0e19",
+		"title": "Ноутбук Lenovo IdeaPad S145-15IGM (81MX0033RA)",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet consectetur consequatur delectus, deserunt dolorum ducimus eaque esse excepturi exercitationem itaque laboriosam laborum mollitia neque officia officiis quasi recusandae reiciendis rerum saepe soluta tenetur ut veritatis vero voluptatibus? A ad aliquid asperiores consectetur consequuntur debitis deserunt ducimus, enim est explicabo fuga harum iusto magni nulla odio ratione suscipit velit. Consectetur explicabo ipsum iste quis saepe sequi? Ab dolore doloribus eveniet magnam quos. Autem cum officiis quisquam! Ducimus eveniet fugiat in ipsa molestias nulla quaerat ut veniam. Assumenda consectetur consequatur, cumque libero nulla perferendis quo similique veritatis! Accusamus aperiam consectetur consequatur culpa deserunt dignissimos distinctio eius enim, et eveniet expedita hic itaque iusto laudantium magni molestias placeat porro quasi, qui sit. Ab adipisci, alias dolorem eius eum illum labore libero minus quas ullam. Aliquid consequuntur, dolores explicabo fugiat inventore maiores omnis perferendis, quae quaerat quibusdam, reiciendis rem suscipit veritatis? Adipisci cumque dolore eligendi excepturi fuga fugit id impedit ipsa, magnam, nam natus, nesciunt nulla perspiciatis quaerat quas quasi repellat repellendus saepe similique totam! Adipisci atque doloremque ea nobis officia rerum voluptas! Aliquid commodi corporis cupiditate in labore laborum nemo nesciunt nisi non numquam, odit quaerat quidem quo repudiandae tempora unde voluptates.",
+		"category": "5e88bfdbfdf4fb0288964194",
+		"price": 15000,
+		"owner": "5e8b45a5851ad00980c1c83f",
+		"image": "uploads\\img\\12042020-152255_374-product6.jpg"
+	},
+	{
+		"rating": 0,
+		"review": [],
+		"_id": "5e93084423938f07bc4b0c17",
+		"title": "Ноутбук Apple MacBook Air 13\" 256GB 2020 Space Gray",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet consectetur consequatur delectus, deserunt dolorum ducimus eaque esse excepturi exercitationem itaque laboriosam laborum mollitia neque officia officiis quasi recusandae reiciendis rerum saepe soluta tenetur ut veritatis vero voluptatibus? A ad aliquid asperiores consectetur consequuntur debitis deserunt ducimus, enim est explicabo fuga harum iusto magni nulla odio ratione suscipit velit. Consectetur explicabo ipsum iste quis saepe sequi? Ab dolore doloribus eveniet magnam quos. Autem cum officiis quisquam! Ducimus eveniet fugiat in ipsa molestias nulla quaerat ut veniam. Assumenda consectetur consequatur, cumque libero nulla perferendis quo similique veritatis! Accusamus aperiam consectetur consequatur culpa deserunt dignissimos distinctio eius enim, et eveniet expedita hic itaque iusto laudantium magni molestias placeat porro quasi, qui sit. Ab adipisci, alias dolorem eius eum illum labore libero minus quas ullam. Aliquid consequuntur, dolores explicabo fugiat inventore maiores omnis perferendis, quae quaerat quibusdam, reiciendis rem suscipit veritatis? Adipisci cumque dolore eligendi excepturi fuga fugit id impedit ipsa, magnam, nam natus, nesciunt nulla perspiciatis quaerat quas quasi repellat repellendus saepe similique totam! Adipisci atque doloremque ea nobis officia rerum voluptas! Aliquid commodi corporis cupiditate in labore laborum nemo nesciunt nisi non numquam, odit quaerat quidem quo repudiandae tempora unde voluptates.",
+		"category": "5e88bfdbfdf4fb0288964194",
+		"price": 17000,
+		"owner": "5e8b45a5851ad00980c1c83f",
+		"image": "uploads\\img\\12042020-152332_627-product7.jpg"
+	},
+	{
+		"rating": 0,
+		"review": [],
+		"_id": "5e9310526bf1f70fb09e4f56",
+		"title": "Everest Home 4070 (4070_9414)",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet consectetur consequatur delectus, deserunt dolorum ducimus eaque esse excepturi exercitationem itaque laboriosam laborum mollitia neque officia officiis quasi recusandae reiciendis rerum saepe soluta tenetur ut veritatis vero voluptatibus? A ad aliquid asperiores consectetur consequuntur debitis deserunt ducimus, enim est explicabo fuga harum iusto magni nulla odio ratione suscipit velit. Consectetur explicabo ipsum iste quis saepe sequi? Ab dolore doloribus eveniet magnam quos. Autem cum officiis quisquam! Ducimus eveniet fugiat in ipsa molestias nulla quaerat ut veniam. Assumenda consectetur consequatur, cumque libero nulla perferendis quo similique veritatis! Accusamus aperiam consectetur consequatur culpa deserunt dignissimos distinctio eius enim, et eveniet expedita hic itaque iusto laudantium magni molestias placeat porro quasi, qui sit. Ab adipisci, alias dolorem eius eum illum labore libero minus quas ullam. Aliquid consequuntur, dolores explicabo fugiat inventore maiores omnis perferendis, quae quaerat quibusdam, reiciendis rem suscipit veritatis? Adipisci cumque dolore eligendi excepturi fuga fugit id impedit ipsa, magnam, nam natus, nesciunt nulla perspiciatis quaerat quas quasi repellat repellendus saepe similique totam! Adipisci atque doloremque ea nobis officia rerum voluptas! Aliquid commodi corporis cupiditate in labore laborum nemo nesciunt nisi non numquam, odit quaerat quidem quo repudiandae tempora unde voluptates.",
+		"category": "5e88bebddd0f093770cad772",
+		"price": 12888,
+		"owner": "5e8b45a5851ad00980c1c83f",
+		"image": "uploads\\img\\12042020-155754_250-product1.jpg"
+	},
+	{
+		"rating": 0,
+		"review": [],
+		"_id": "5e931075f935c621f007883f",
+		"title": "Everest Home 4085 (4085_0900)",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet consectetur consequatur delectus, deserunt dolorum ducimus eaque esse excepturi exercitationem itaque laboriosam laborum mollitia neque officia officiis quasi recusandae reiciendis rerum saepe soluta tenetur ut veritatis vero voluptatibus? A ad aliquid asperiores consectetur consequuntur debitis deserunt ducimus, enim est explicabo fuga harum iusto magni nulla odio ratione suscipit velit. Consectetur explicabo ipsum iste quis saepe sequi? Ab dolore doloribus eveniet magnam quos. Autem cum officiis quisquam! Ducimus eveniet fugiat in ipsa molestias nulla quaerat ut veniam. Assumenda consectetur consequatur, cumque libero nulla perferendis quo similique veritatis! Accusamus aperiam consectetur consequatur culpa deserunt dignissimos distinctio eius enim, et eveniet expedita hic itaque iusto laudantium magni molestias placeat porro quasi, qui sit. Ab adipisci, alias dolorem eius eum illum labore libero minus quas ullam. Aliquid consequuntur, dolores explicabo fugiat inventore maiores omnis perferendis, quae quaerat quibusdam, reiciendis rem suscipit veritatis? Adipisci cumque dolore eligendi excepturi fuga fugit id impedit ipsa, magnam, nam natus, nesciunt nulla perspiciatis quaerat quas quasi repellat repellendus saepe similique totam! Adipisci atque doloremque ea nobis officia rerum voluptas! Aliquid commodi corporis cupiditate in labore laborum nemo nesciunt nisi non numquam, odit quaerat quidem quo repudiandae tempora unde voluptates.",
+		"category": "5e88bebddd0f093770cad772",
+		"price": 13499,
+		"owner": "5e8b45a5851ad00980c1c83f",
+		"image": "uploads\\img\\12042020-155829_592-product2.jpg"
+	},
+	{
+		"rating": 0,
+		"review": [],
+		"_id": "5e9310a9a7d2772ea8c7c578",
+		"title": "ARTLINE Gaming X39 v33 (X39v33)",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet consectetur consequatur delectus, deserunt dolorum ducimus eaque esse excepturi exercitationem itaque laboriosam laborum mollitia neque officia officiis quasi recusandae reiciendis rerum saepe soluta tenetur ut veritatis vero voluptatibus? A ad aliquid asperiores consectetur consequuntur debitis deserunt ducimus, enim est explicabo fuga harum iusto magni nulla odio ratione suscipit velit. Consectetur explicabo ipsum iste quis saepe sequi? Ab dolore doloribus eveniet magnam quos. Autem cum officiis quisquam! Ducimus eveniet fugiat in ipsa molestias nulla quaerat ut veniam. Assumenda consectetur consequatur, cumque libero nulla perferendis quo similique veritatis! Accusamus aperiam consectetur consequatur culpa deserunt dignissimos distinctio eius enim, et eveniet expedita hic itaque iusto laudantium magni molestias placeat porro quasi, qui sit. Ab adipisci, alias dolorem eius eum illum labore libero minus quas ullam. Aliquid consequuntur, dolores explicabo fugiat inventore maiores omnis perferendis, quae quaerat quibusdam, reiciendis rem suscipit veritatis? Adipisci cumque dolore eligendi excepturi fuga fugit id impedit ipsa, magnam, nam natus, nesciunt nulla perspiciatis quaerat quas quasi repellat repellendus saepe similique totam! Adipisci atque doloremque ea nobis officia rerum voluptas! Aliquid commodi corporis cupiditate in labore laborum nemo nesciunt nisi non numquam, odit quaerat quidem quo repudiandae tempora unde voluptates.",
+		"category": "5e88bebddd0f093770cad772",
+		"price": 23000,
+		"owner": "5e8b45a5851ad00980c1c83f",
+		"image": "uploads\\img\\12042020-155921_031-product3.jpg"
+	},
+	{
+		"rating": 0,
+		"review": [],
+		"_id": "5e9310da1718662cd4a0851d",
+		"title": "Artline Gaming X35 v17 (X35v17)",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet consectetur consequatur delectus, deserunt dolorum ducimus eaque esse excepturi exercitationem itaque laboriosam laborum mollitia neque officia officiis quasi recusandae reiciendis rerum saepe soluta tenetur ut veritatis vero voluptatibus? A ad aliquid asperiores consectetur consequuntur debitis deserunt ducimus, enim est explicabo fuga harum iusto magni nulla odio ratione suscipit velit. Consectetur explicabo ipsum iste quis saepe sequi? Ab dolore doloribus eveniet magnam quos. Autem cum officiis quisquam! Ducimus eveniet fugiat in ipsa molestias nulla quaerat ut veniam. Assumenda consectetur consequatur, cumque libero nulla perferendis quo similique veritatis! Accusamus aperiam consectetur consequatur culpa deserunt dignissimos distinctio eius enim, et eveniet expedita hic itaque iusto laudantium magni molestias placeat porro quasi, qui sit. Ab adipisci, alias dolorem eius eum illum labore libero minus quas ullam. Aliquid consequuntur, dolores explicabo fugiat inventore maiores omnis perferendis, quae quaerat quibusdam, reiciendis rem suscipit veritatis? Adipisci cumque dolore eligendi excepturi fuga fugit id impedit ipsa, magnam, nam natus, nesciunt nulla perspiciatis quaerat quas quasi repellat repellendus saepe similique totam! Adipisci atque doloremque ea nobis officia rerum voluptas! Aliquid commodi corporis cupiditate in labore laborum nemo nesciunt nisi non numquam, odit quaerat quidem quo repudiandae tempora unde voluptates.",
+		"category": "5e88bebddd0f093770cad772",
+		"price": 23000,
+		"owner": "5e8b45a5851ad00980c1c83f",
+		"image": "uploads\\img\\12042020-160010_254-product4.jpg"
+	},
+	{
+		"rating": 0,
+		"review": [],
+		"_id": "5e931115c5e4ae2bc88e0db5",
+		"title": "Everest Home 4080 (4080_7612)",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet consectetur consequatur delectus, deserunt dolorum ducimus eaque esse excepturi exercitationem itaque laboriosam laborum mollitia neque officia officiis quasi recusandae reiciendis rerum saepe soluta tenetur ut veritatis vero voluptatibus? A ad aliquid asperiores consectetur consequuntur debitis deserunt ducimus, enim est explicabo fuga harum iusto magni nulla odio ratione suscipit velit. Consectetur explicabo ipsum iste quis saepe sequi? Ab dolore doloribus eveniet magnam quos. Autem cum officiis quisquam! Ducimus eveniet fugiat in ipsa molestias nulla quaerat ut veniam. Assumenda consectetur consequatur, cumque libero nulla perferendis quo similique veritatis! Accusamus aperiam consectetur consequatur culpa deserunt dignissimos distinctio eius enim, et eveniet expedita hic itaque iusto laudantium magni molestias placeat porro quasi, qui sit. Ab adipisci, alias dolorem eius eum illum labore libero minus quas ullam. Aliquid consequuntur, dolores explicabo fugiat inventore maiores omnis perferendis, quae quaerat quibusdam, reiciendis rem suscipit veritatis? Adipisci cumque dolore eligendi excepturi fuga fugit id impedit ipsa, magnam, nam natus, nesciunt nulla perspiciatis quaerat quas quasi repellat repellendus saepe similique totam! Adipisci atque doloremque ea nobis officia rerum voluptas! Aliquid commodi corporis cupiditate in labore laborum nemo nesciunt nisi non numquam, odit quaerat quidem quo repudiandae tempora unde voluptates.",
+		"category": "5e88bebddd0f093770cad772",
+		"price": 23000,
+		"owner": "5e8b45a5851ad00980c1c83f",
+		"image": "uploads\\img\\12042020-160109_323-product5.jpg"
+	}
+]

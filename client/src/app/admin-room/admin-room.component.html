@@ -1,0 +1,14 @@
+<section>
+  <div class="list-operation d-flex f-justify-around">
+    <div (click)="SlideOrProduct(true, false)" class="operation btn-auth">Слайди</div>
+    <div (click)="SlideOrProduct(false, true)" class="operation btn-auth">Товари</div>
+  </div>
+  <div class="container-operation">
+    <div *ngIf="slide" class="slid-operation d-flex f-justify-center">
+      <app-slide></app-slide>
+    </div>
+    <div *ngIf="product" class="product-operation">
+      <app-products></app-products>
+    </div>
+  </div>
+</section>

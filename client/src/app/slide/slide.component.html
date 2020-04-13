@@ -1,0 +1,20 @@
+<div *ngIf="slid.slides[0]" class="d-flex slides-container f-justify-around">
+  <div class="title">Слайди</div>
+  <div *ngFor="let slide of slid.slides" class="slide d-flex f-justify-center">
+    <div class="image">
+      <img [src]="slide?.image" class="slide-img-preview" alt="">
+    </div>
+    <button (click)="delete(slide?._id)" class="delete btn">Видалити</button>
+  </div>
+</div>
+<div>
+  <div class="title">Додати слайд</div>
+  <div class="slide d-flex f-align-center f-justify-center">
+    <label class="image d-flex f-align-center f-justify-center">
+      <input (change)="onFileSelect($event)" class="file" type="file">
+      <i *ngIf="!imagePreview" class="fas fa-image"></i>
+      <img *ngIf="imagePreview" [src]="imagePreview" class="slide-img-preview" alt="">
+    </label>
+    <button type="submit" (click)="onSubmit()" class="btn-auth">Зберегти</button>
+  </div>
+</div>

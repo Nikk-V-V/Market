@@ -1,0 +1,24 @@
+<section id="home_content">
+  <div class="carousel">
+    <div class="slider">
+    <span class="carousel-item-left" role="button" (click)="leftB()">
+      <i class="fas fa-angle-left"></i>
+    </span>
+      <div class="content-slider">
+        <div id="content" class="d-flex">
+          <div class="slid" *ngFor="let slid of slide.slides">
+            <div class="carouselItem">
+              <img src="{{slid?.image}}" alt="Slide">
+            </div>
+          </div>
+        </div>
+      </div>
+      <span class="carousel-item-right" role="button" (click)="rightB()">
+      <i class="fas fa-angle-right"></i>
+    </span>
+    </div>
+  </div>
+  <div class="d-flex f-justify-center f-align-center">
+    Тут може бути ваша реклама
+  </div>
+</section>

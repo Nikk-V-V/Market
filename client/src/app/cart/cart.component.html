@@ -1,0 +1,13 @@
+<section class="cart-container">
+  <div *ngIf="products" class="products">
+    <div *ngFor="let product of products" class="product d-flex f-align-center f-justify-between">
+      <div class="product-image"><img [src]="product?.image" alt=""></div>
+      <div class="product-title" [innerHTML]="product?.title"></div>
+      <div class="product-price">Ціна: {{product?.price | currency:'UAH':'symbol-narrow'}}</div>
+      <div class="btn-remove-item" (click)="remove(product)">Видалити</div>
+    </div>
+  </div>
+  <div *ngIf="!products[0]" class="d-flex f-justify-center f-align-center list-is-empty">
+    <div class="text">Кошик пустий. Оберіть товари.</div>
+  </div>
+</section>

@@ -1,0 +1,44 @@
+<div class="d-flex products-container f-justify-around">
+  <div class="title">Додати товар</div>
+  <form [formGroup]="products">
+    <div class="image-product d-flex f-justify-center">
+      <label>
+        <input (change)="onFileSelect($event)" class="file" type="file">
+        <i *ngIf="!imagePreview" class="fas fa-image"></i>
+        <img *ngIf="imagePreview" [src]="imagePreview" class="product-img-preview" alt="">
+      </label>
+    </div>
+    <div class="category">
+      <div>Категорія товару</div>
+      <label>
+        <select formControlName="category">
+          <option
+            *ngFor="let category of category.categories"
+            [innerHTML]="category.title" [value]="category._id"
+          >
+          </option>
+          <option>Додати категорію</option>
+        </select>
+      </label>
+    </div>
+    <div class="product-title">
+      <label>
+        <input formControlName="title" type="text" placeholder="Назва продукта">
+      </label>
+    </div>
+    <div class="description-product">
+      <label>
+        <textarea formControlName="description" placeholder="Опис"></textarea>
+      </label>
+    </div>
+    <div class="price">
+      <label>
+        <p>Ціна:</p>
+        <input formControlName="price" type="number">
+      </label>
+    </div>
+    <div class="btn-submit d-flex f-justify-center">
+      <input (click)="onSubmit()" class="btn-auth" type="submit" value="Створити">
+    </div>
+  </form>
+</div>

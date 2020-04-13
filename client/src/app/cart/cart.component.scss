@@ -1,0 +1,43 @@
+section {
+}
+.product {
+  width: 100%;
+  padding: 15px;
+  background-color: #7f0000;
+  margin-bottom: 15px;
+  border-radius: 15px;
+}
+
+.product-image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.btn-remove-item {
+  padding: 10px;
+  background-color: black;
+  border-radius: 15px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+@media all and (max-width: 800px) {
+  .products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    .product {
+      margin: 20px 20px;
+      width: 200px;
+      height: 300px;
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+  .product-image {
+    width: 60px;
+    height: 60px;
+  }
+}
